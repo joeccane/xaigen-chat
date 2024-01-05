@@ -1,0 +1,28 @@
+/* Folder structure for the Chatroom Application project */
+
+project_root/
+│
+├── index.html  # Main HTML file
+├── style.css   # Main CSS file for styling
+├── index.js    # Main JavaScript file
+│
+├── js/         # Directory for additional JavaScript files
+│   ├── chat.js       # Handles chat functionalities
+│   ├── agent.js      # Handles agent-related functionalities
+│   └── database.js   # Database interactions
+│
+├── css/        # Directory for additional CSS files
+│   ├── chat.css       # Styling for chat components
+│   └── agent.css      # Styling for agent components
+│
+├── xaigen/     # Directory for the 'xaigen' library with reusable code
+│   ├── doc_processing.py   # Document processing scripts
+│   └── requirements.txt    # Dependencies for 'xaigen' library
+│
+├── documents/  # Directory for storing project-related documents
+│
+├── data/       # Directory for storing data files
+│
+├── flask_backend.py  # Flask backend file
+└── pyautogen_scripts.py  # PyAutoGUI scripts
+

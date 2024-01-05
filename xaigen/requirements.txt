@@ -1,0 +1,10 @@
+Flask
+NLTK
+PyAutogen
+Keras
+Transformers
+OpenAI
+datasets
+markdown-to-json
+PyYaml
+MySQL
